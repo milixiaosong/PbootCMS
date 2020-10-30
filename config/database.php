@@ -7,7 +7,7 @@ return array(
     
     'database' => array(
         
-        'type' => 'pdo_mysql', // 数据库连接驱动类型: mysqli,sqlite,pdo_mysql,pdo_sqlite
+        'type' => 'mysqli', // 数据库连接驱动类型: mysqli,sqlite,pdo_mysql,pdo_sqlite
         
         'host' => '127.0.0.1', // 数据库服务器
         

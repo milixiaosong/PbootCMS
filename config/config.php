@@ -2,7 +2,7 @@
 return array(
     
     // 授权码，多个授权码使用英文逗号隔开，如：'aaaaa,bbbbb'
-    'sn' => '7199FA356B',
+    'sn' => 'E4980111BD',
     
     // 授权用户手机
     'sn_user' => '',
